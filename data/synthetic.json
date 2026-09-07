@@ -1,0 +1,162 @@
+{
+  "STORY-01.01": [
+    {
+      "name": "Chloe",
+      "email": "chloe1@sample.org",
+      "category": "praise",
+      "message": "Synthetic record 1 for STORY-01.01"
+    },
+    {
+      "name": "Elena",
+      "email": "elena2@example.com",
+      "category": "bug",
+      "message": "Synthetic record 2 for STORY-01.01"
+    },
+    {
+      "name": "Hiro",
+      "email": "hiro3@sample.org",
+      "category": "question",
+      "message": "Synthetic record 3 for STORY-01.01"
+    }
+  ],
+  "STORY-01.02": [
+    {
+      "name": "Ava",
+      "email": "ava1@test.local",
+      "category": "praise",
+      "message": "Synthetic record 1 for STORY-01.02"
+    },
+    {
+      "name": "Ava",
+      "email": "ava2@sample.org",
+      "category": "bug",
+      "message": "Synthetic record 2 for STORY-01.02"
+    },
+    {
+      "name": "Chloe",
+      "email": "chloe3@sample.org",
+      "category": "idea",
+      "message": "Synthetic record 3 for STORY-01.02"
+    }
+  ],
+  "STORY-01.03": [
+    {
+      "name": "Ben",
+      "email": "ben1@sample.org",
+      "category": "question",
+      "message": "Synthetic record 1 for STORY-01.03"
+    },
+    {
+      "name": "Hiro",
+      "email": "hiro2@test.local",
+      "category": "idea",
+      "message": "Synthetic record 2 for STORY-01.03"
+    },
+    {
+      "name": "Dev",
+      "email": "dev3@test.local",
+      "category": "question",
+      "message": "Synthetic record 3 for STORY-01.03"
+    }
+  ],
+  "STORY-02.01": [
+    {
+      "name": "Dev",
+      "email": "dev1@test.local",
+      "category": "bug",
+      "message": "Synthetic record 1 for STORY-02.01"
+    },
+    {
+      "name": "Chloe",
+      "email": "chloe2@test.local",
+      "category": "question",
+      "message": "Synthetic record 2 for STORY-02.01"
+    },
+    {
+      "name": "Chloe",
+      "email": "chloe3@test.local",
+      "category": "question",
+      "message": "Synthetic record 3 for STORY-02.01"
+    }
+  ],
+  "STORY-02.02": [
+    {
+      "name": "Hiro",
+      "email": "hiro1@sample.org",
+      "category": "question",
+      "message": "Synthetic record 1 for STORY-02.02"
+    },
+    {
+      "name": "Farid",
+      "email": "farid2@test.local",
+      "category": "bug",
+      "message": "Synthetic record 2 for STORY-02.02"
+    },
+    {
+      "name": "Dev",
+      "email": "dev3@example.com",
+      "category": "idea",
+      "message": "Synthetic record 3 for STORY-02.02"
+    }
+  ],
+  "STORY-02.03": [
+    {
+      "name": "Farid",
+      "email": "farid1@test.local",
+      "category": "question",
+      "message": "Synthetic record 1 for STORY-02.03"
+    },
+    {
+      "name": "Dev",
+      "email": "dev2@test.local",
+      "category": "question",
+      "message": "Synthetic record 2 for STORY-02.03"
+    },
+    {
+      "name": "Chloe",
+      "email": "chloe3@sample.org",
+      "category": "praise",
+      "message": "Synthetic record 3 for STORY-02.03"
+    }
+  ],
+  "STORY-03.01": [
+    {
+      "name": "Hiro",
+      "email": "hiro1@test.local",
+      "category": "bug",
+      "message": "Synthetic record 1 for STORY-03.01"
+    },
+    {
+      "name": "Ben",
+      "email": "ben2@test.local",
+      "category": "idea",
+      "message": "Synthetic record 2 for STORY-03.01"
+    },
+    {
+      "name": "Ben",
+      "email": "ben3@sample.org",
+      "category": "idea",
+      "message": "Synthetic record 3 for STORY-03.01"
+    }
+  ],
+  "STORY-03.02": [
+    {
+      "name": "Grace",
+      "email": "grace1@example.com",
+      "category": "idea",
+      "message": "Synthetic record 1 for STORY-03.02"
+    },
+    {
+      "name": "Dev",
+      "email": "dev2@test.local",
+      "category": "praise",
+      "message": "Synthetic record 2 for STORY-03.02"
+    },
+    {
+      "name": "Dev",
+      "email": "dev3@sample.org",
+      "category": "idea",
+      "message": "Synthetic record 3 for STORY-03.02"
+    }
+  ]
+}
